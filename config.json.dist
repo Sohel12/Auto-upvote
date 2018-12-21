@@ -7,6 +7,6 @@
   "minPostAge": "30 minutes ago",
   "maxPostAge": "4 days ago",
   "commandPrefix" : "$",
-  "adminList": ["354999742318641193", "411865062731677696"],
+  "adminList": ["354999742318641193", "332420487651262464", "403867433003253762", "411865062731677696"],
   "runtimeConfigFile": "config-runtime.json"
 }
